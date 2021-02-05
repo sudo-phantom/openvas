@@ -1,3 +1,4 @@
+apt-get install sudo -y;
 sudo locale-gen en_US.UTF-8 ;\
 export LC_ALL="C";
 sudo apt update ;\
